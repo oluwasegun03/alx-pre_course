@@ -1,1 +1,2 @@
-hello, my name is oluwasegun oriolowo and im really i love with software engineer
+My name is Oluwasegun Oriolowo
+I am a software engineer with alx 
